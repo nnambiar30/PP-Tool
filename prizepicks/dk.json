@@ -1,0 +1,899 @@
+{
+    "eventGroup": {
+        "eventGroupId": 88670846,
+        "providerEventGroupId": "42648",
+        "providerId": 2,
+        "displayGroupId": 5319,
+        "name": "NBA",
+        "offerCategories": [
+            {
+                "offerCategoryId": 487,
+                "name": "Game Lines"
+            },
+            {
+                "offerCategoryId": 1215,
+                "name": "Player Points"
+            },
+            {
+                "offerCategoryId": 1216,
+                "name": "Player Rebounds"
+            },
+            {
+                "offerCategoryId": 1217,
+                "name": "Player Assists"
+            },
+            {
+                "offerCategoryId": 1218,
+                "name": "Player Threes"
+            },
+            {
+                "offerCategoryId": 583,
+                "name": "Player Combos",
+                "offerSubcategoryDescriptors": [
+                    {
+                        "subcategoryId": 5001,
+                        "name": "Pts + Reb + Ast",
+                        "offerSubcategory": {
+                            "name": "Pts + Reb + Ast",
+                            "subcategoryId": 5001,
+                            "componentId": 8,
+                            "offers": [
+                                [
+                                    {
+                                        "providerOfferId": "129436799",
+                                        "providerId": 2,
+                                        "providerEventId": "28111178",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Darius Garland Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129436799#1405041637_13L42648Q1-1458960102Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436799",
+                                                "label": "Over",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 30.5000,
+                                                "participant": "Darius Garland",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129436799#1405041636_15L42648Q1-447111476Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436799",
+                                                "label": "Under",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 30.5000,
+                                                "participant": "Darius Garland",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554047,
+                                        "dkPlayerId": "32989"
+                                    },
+                                    {
+                                        "providerOfferId": "129436790",
+                                        "providerId": 2,
+                                        "providerEventId": "28111178",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Donovan Mitchell Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129436790#1405042050_13L42648Q1-594979483Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436790",
+                                                "label": "Over",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 35.5000,
+                                                "participant": "Donovan Mitchell",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129436790#1405042049_15L42648Q1414209129Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436790",
+                                                "label": "Under",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 35.5000,
+                                                "participant": "Donovan Mitchell",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554047,
+                                        "dkPlayerId": "33398"
+                                    },
+                                    {
+                                        "providerOfferId": "129436832",
+                                        "providerId": 2,
+                                        "providerEventId": "28111178",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Evan Mobley Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129436832#1405039426_13L42648Q11616514178Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436832",
+                                                "label": "Over",
+                                                "oddsAmerican": "-115",
+                                                "oddsDecimal": 1.86956522,
+                                                "oddsFractional": "20/23",
+                                                "line": 28.5000,
+                                                "participant": "Evan Mobley",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129436832#1405039425_15L42648Q11291989602Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436832",
+                                                "label": "Under",
+                                                "oddsAmerican": "-115",
+                                                "oddsDecimal": 1.86956522,
+                                                "oddsFractional": "20/23",
+                                                "line": 28.5000,
+                                                "participant": "Evan Mobley",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554047,
+                                        "dkPlayerId": "590986"
+                                    },
+                                    {
+                                        "providerOfferId": "129436812",
+                                        "providerId": 2,
+                                        "providerEventId": "28111178",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jarrett Allen Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129436812#1405042745_13L42648Q1-740017868Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436812",
+                                                "label": "Over",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 25.5000,
+                                                "participant": "Jarrett Allen",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129436812#1405042743_15L42648Q11374847146Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436812",
+                                                "label": "Under",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 25.5000,
+                                                "participant": "Jarrett Allen",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554047,
+                                        "dkPlayerId": "32914"
+                                    },
+                                    {
+                                        "providerOfferId": "129436939",
+                                        "providerId": 2,
+                                        "providerEventId": "28111178",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jordan Clarkson Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129436939#1405117384_13L42648Q1404262942Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436939",
+                                                "label": "Over",
+                                                "oddsAmerican": "-125",
+                                                "oddsDecimal": 1.80000000,
+                                                "oddsFractional": "4/5",
+                                                "line": 26.5000,
+                                                "participant": "Jordan Clarkson",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129436939#1405117383_15L42648Q1123533752Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436939",
+                                                "label": "Under",
+                                                "oddsAmerican": "-105",
+                                                "oddsDecimal": 1.95238096,
+                                                "oddsFractional": "20/21",
+                                                "line": 26.5000,
+                                                "participant": "Jordan Clarkson",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554047,
+                                        "dkPlayerId": "32983"
+                                    },
+                                    {
+                                        "providerOfferId": "129436956",
+                                        "providerId": 2,
+                                        "providerEventId": "28111178",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Lauri Markkanen Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129436956#1405039802_13L42648Q1-2084423487Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436956",
+                                                "label": "Over",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 29.5000,
+                                                "participant": "Lauri Markkanen",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129436956#1405039801_15L42648Q11995609662Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129436956",
+                                                "label": "Under",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 29.5000,
+                                                "participant": "Lauri Markkanen",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554047,
+                                        "dkPlayerId": "32970"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "providerOfferId": "129439473",
+                                        "providerId": 2,
+                                        "providerEventId": "28111181",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Alperen Sengun Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129439473#1405064897_13L42648Q11390571168Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439473",
+                                                "label": "Over",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 23.5000,
+                                                "participant": "Alperen Sengun",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129439473#1405064898_15L42648Q1-456343926Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439473",
+                                                "label": "Under",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 23.5000,
+                                                "participant": "Alperen Sengun",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554048,
+                                        "dkPlayerId": "591017"
+                                    },
+                                    {
+                                        "providerOfferId": "129439466",
+                                        "providerId": 2,
+                                        "providerEventId": "28111181",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jabari Smith Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129439466#1405132365_13L42648Q11715700023Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439466",
+                                                "label": "Over",
+                                                "oddsAmerican": "-125",
+                                                "oddsDecimal": 1.80000000,
+                                                "oddsFractional": "4/5",
+                                                "line": 20.5000,
+                                                "participant": "Jabari Smith",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129439466#1405132366_15L42648Q1208539816Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439466",
+                                                "label": "Under",
+                                                "oddsAmerican": "-105",
+                                                "oddsDecimal": 1.95238096,
+                                                "oddsFractional": "20/21",
+                                                "line": 20.5000,
+                                                "participant": "Jabari Smith",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554048,
+                                        "dkPlayerId": "649546"
+                                    },
+                                    {
+                                        "providerOfferId": "129439433",
+                                        "providerId": 2,
+                                        "providerEventId": "28111181",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jalen Green Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129439433#1405065626_13L42648Q1-5119111Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439433",
+                                                "label": "Over",
+                                                "oddsAmerican": "-105",
+                                                "oddsDecimal": 1.95238096,
+                                                "oddsFractional": "20/21",
+                                                "line": 31.5000,
+                                                "participant": "Jalen Green",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129439433#1405065627_15L42648Q1-1759860560Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439433",
+                                                "label": "Under",
+                                                "oddsAmerican": "-125",
+                                                "oddsDecimal": 1.80000000,
+                                                "oddsFractional": "4/5",
+                                                "line": 31.5000,
+                                                "participant": "Jalen Green",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554048,
+                                        "dkPlayerId": "590985"
+                                    },
+                                    {
+                                        "providerOfferId": "129439427",
+                                        "providerId": 2,
+                                        "providerEventId": "28111181",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Kevin Porter Jr. Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129439427#1405052476_13L42648Q1-2084423487Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439427",
+                                                "label": "Over",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 29.5000,
+                                                "participant": "Kevin Porter Jr.",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129439427#1405052479_15L42648Q11995609662Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129439427",
+                                                "label": "Under",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 29.5000,
+                                                "participant": "Kevin Porter Jr.",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554048,
+                                        "dkPlayerId": "32991"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "providerOfferId": "129438460",
+                                        "providerId": 2,
+                                        "providerEventId": "28111184",
+                                        "providerEventGroupId": "42648",
+                                        "label": "CJ McCollum Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129438460#1405049034_13L42648Q11616514178Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129438460",
+                                                "label": "Over",
+                                                "oddsAmerican": "-115",
+                                                "oddsDecimal": 1.86956522,
+                                                "oddsFractional": "20/23",
+                                                "line": 28.5000,
+                                                "participant": "CJ McCollum",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129438460#1405049035_15L42648Q11291989602Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129438460",
+                                                "label": "Under",
+                                                "oddsAmerican": "-115",
+                                                "oddsDecimal": 1.86956522,
+                                                "oddsFractional": "20/23",
+                                                "line": 28.5000,
+                                                "participant": "CJ McCollum",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554152,
+                                        "dkPlayerId": "33324"
+                                    },
+                                    {
+                                        "providerOfferId": "129471278",
+                                        "providerId": 2,
+                                        "providerEventId": "28111184",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Giannis Antetokounmpo Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129471278#1405219482_13L42648Q11034025636Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129471278",
+                                                "label": "Over",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 47.5000,
+                                                "participant": "Giannis Antetokounmpo",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129471278#1405219483_15L42648Q11460139200Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129471278",
+                                                "label": "Under",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 47.5000,
+                                                "participant": "Giannis Antetokounmpo",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554152,
+                                        "dkPlayerId": "33178"
+                                    },
+                                    {
+                                        "providerOfferId": "129438446",
+                                        "providerId": 2,
+                                        "providerEventId": "28111184",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Zion Williamson Points + Assists + Rebounds",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 5001,
+                                        "isSubcategoryFeatured": true,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8657",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA129438446#1405219811_13L42648Q11420633807Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129438446",
+                                                "label": "Over",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsFractional": "10/11",
+                                                "line": 38.5000,
+                                                "participant": "Zion Williamson",
+                                                "main": true
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA129438446#1405219812_15L42648Q1-1130612070Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "129438446",
+                                                "label": "Under",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsFractional": "5/6",
+                                                "line": 38.5000,
+                                                "participant": "Zion Williamson",
+                                                "main": true
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false,
+                                        "eventId": 180554152,
+                                        "dkPlayerId": "33223"
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "subcategoryId": 7137,
+                        "name": "Triple-Double"
+                    },
+                    {
+                        "subcategoryId": 7136,
+                        "name": "Double-Double"
+                    },
+                    {
+                        "subcategoryId": 9976,
+                        "name": "Pts + Reb"
+                    },
+                    {
+                        "subcategoryId": 9973,
+                        "name": "Pts + Ast"
+                    },
+                    {
+                        "subcategoryId": 9974,
+                        "name": "Ast + Reb"
+                    }
+                ]
+            },
+            {
+                "offerCategoryId": 1219,
+                "name": "Player Blocks/Steals"
+            },
+            {
+                "offerCategoryId": 1220,
+                "name": "Player Turnovers"
+            },
+            {
+                "offerCategoryId": 523,
+                "name": "Team Props"
+            },
+            {
+                "offerCategoryId": 521,
+                "name": "Game Props"
+            },
+            {
+                "offerCategoryId": 522,
+                "name": "Quarters"
+            },
+            {
+                "offerCategoryId": 520,
+                "name": "Halves"
+            },
+            {
+                "offerCategoryId": 519,
+                "name": "Futures"
+            },
+            {
+                "offerCategoryId": 1017,
+                "name": "Wins/Playoffs"
+            },
+            {
+                "offerCategoryId": 518,
+                "name": "Awards"
+            },
+            {
+                "offerCategoryId": 895,
+                "name": "2023 NBA Draft"
+            }
+        ],
+        "events": [
+            {
+                "eventId": 180554047,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "28111178",
+                "providerId": 2,
+                "name": "UTA Jazz @ CLE Cavaliers",
+                "startDate": "2022-12-20T00:10:00.0000000Z",
+                "teamName1": "UTA Jazz",
+                "teamName2": "CLE Cavaliers",
+                "teamShortName1": "UTA",
+                "teamShortName2": "CLE",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "35432925",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-12-19T04:50:50.2430490Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "35432925",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-12-19T04:50:50.2430490Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "35432925",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-12-19T04:50:50.2430490Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "tags": [
+                    "MatchTracker",
+                    "PrePack",
+                    "Scoreboard",
+                    "SportcastBetBuilder",
+                    "Stats",
+                    "YourBetEligible"
+                ],
+                "flashBetOfferCount": 0
+            },
+            {
+                "eventId": 180554048,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "28111181",
+                "providerId": 2,
+                "name": "SA Spurs @ HOU Rockets",
+                "startDate": "2022-12-20T01:10:00.0000000Z",
+                "teamName1": "SA Spurs",
+                "teamName2": "HOU Rockets",
+                "teamShortName1": "SAS",
+                "teamShortName2": "HOU",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "35432195",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-12-19T04:50:52.2889977Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "35432195",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-12-19T04:50:52.2889977Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "35432195",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-12-19T04:50:52.2889977Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "tags": [
+                    "MatchTracker",
+                    "PrePack",
+                    "Scoreboard",
+                    "SportcastBetBuilder",
+                    "Stats",
+                    "YourBetEligible"
+                ],
+                "flashBetOfferCount": 0
+            },
+            {
+                "eventId": 180554152,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "28111184",
+                "providerId": 2,
+                "name": "MIL Bucks @ NO Pelicans",
+                "startDate": "2022-12-20T01:10:00.0000000Z",
+                "teamName1": "MIL Bucks",
+                "teamName2": "NO Pelicans",
+                "teamShortName1": "MIL",
+                "teamShortName2": "NO",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "35433001",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-12-19T02:31:48.4835880Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "35433001",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-12-19T02:31:48.4835880Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "35433001",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-12-19T02:31:48.4835880Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "tags": [
+                    "MatchTracker",
+                    "Scoreboard",
+                    "Stats"
+                ],
+                "flashBetOfferCount": 0
+            }
+        ],
+        "tags": [
+            "MatchTracker",
+            "PrePack",
+            "Scoreboard",
+            "SportcastBetBuilder",
+            "Stats",
+            "YourBetEligible"
+        ]
+    }
+}
